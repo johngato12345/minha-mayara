@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Para Mayara</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 2rem;
+      max-width: 700px;
+      margin: auto;
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      color: #e91e63;
+    }
+  </style>
+</head>
+<body>
+  <h1>Para Mayara</h1>
+  <img src="foto.jpg" alt="Foto de Mayara" />
+  <p>
+    Sorrio a cada mensagem sua, pois sua felicidade é uma dádiva que sempre será bem-vinda ao meu mundo. Seus olhos brilham com a intensidade de um oceano, profundos e misteriosos, mais valiosos que qualquer tesouro de ouro ou prata, pois nada pode se comparar à sua presença. O que posso oferecer é o que há de mais genuíno: atenção, respeito e lealdade, pois são esses os pilares que sustentam o que é verdadeiro. O abraço que um dia se deu no exterior, no meu interno encontro de corpos, agora se transformou em um abraço eterno, guardado nas memórias e no coração, onde o toque permanece, aquecendo a alma por anos a fio.
+  </p>
+  <p><em>(Texto feito enquanto você dormia ao meu lado, enquanto eu tomava um café.)</em></p>
+</body>
+</html>
